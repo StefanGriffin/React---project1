@@ -12,7 +12,7 @@
 
 [5 - React Basics ](../../tree/3086ac92aa95a15b83bddc0302fdeac0c755e4cf/)
 
-[6 - Empty ](../../tree//)
+[6 - Introducing State ](../../tree/c8777c5e06ba08d72b8998b6938a6ca2739c98aa/)
 
 [7 - Empty ](../../tree//)
 
