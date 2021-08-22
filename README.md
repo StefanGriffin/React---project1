@@ -8,7 +8,7 @@
 
 [3 - Props ](../../tree/dcff6527d37b8691a68fe470f7072fdc01b5c17d/)
 
-[4 - Empty ](../../tree//)
+[4 - Added the second component ](../../tree/9bd3202cea3561cfd498a97e914b0ea88c78aba0/)
 
 [5 - Empty ](../../tree//)
 
