@@ -20,7 +20,7 @@
 
 [9 - Two way bunding ](../../tree/5c7edd860cad1cb9e750beb33b692e3e7920fb0d/)
 
-[10 - Working with events ](../../tree/531cad95bb2b2d950b3e42bc4eaa7971498bc817/)
+[10 - Rendering lists of data ](../../tree/5df66eb18f7c654c217af38679c5c62f9eae1c09/)
 
 [11 - Empty ](../../tree//)
 
