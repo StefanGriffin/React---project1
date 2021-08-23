@@ -22,6 +22,6 @@
 
 [9 -  Project: Expenses Tracker => completed ](../../tree/c3657a4a4f2795b6e4e6bfbd551ba66b27f13475/)
 
-[10 - Project Completed ](../../tree//)
+[10 - Project Completed ](../../tree/7a28df2640f1ca5d359398926df6f7180e6956f7/)
 
 
