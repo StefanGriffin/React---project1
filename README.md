@@ -10,21 +10,19 @@
 
 [4 - Added the second component ](../../tree/9bd3202cea3561cfd498a97e914b0ea88c78aba0/)
 
-[5 - React Basics ](../../tree/3086ac92aa95a15b83bddc0302fdeac0c755e4cf/)
+[5 - Added Form ](../../tree/90ae10a7100342e97f3dd716baafa6614a2786d8/)
 
-[6 - Introducing State ](../../tree/c8777c5e06ba08d72b8998b6938a6ca2739c98aa/)
+[6 - Updated State based on the previous State ](../../tree/d3af861ae030449de1028ae2aa7ffe8800d37778/)
 
-[7 - Added Form ](../../tree/90ae10a7100342e97f3dd716baafa6614a2786d8/)
+[7 - Two way bunding ](../../tree/5c7edd860cad1cb9e750beb33b692e3e7920fb0d/)
 
-[8 - Updated State based on the previous State ](../../tree/d3af861ae030449de1028ae2aa7ffe8800d37778/)
+[8 - Rendering lists of data ](../../tree/5df66eb18f7c654c217af38679c5c62f9eae1c09/)
 
-[9 - Two way bunding ](../../tree/5c7edd860cad1cb9e750beb33b692e3e7920fb0d/)
+[9 - Empty ](../../tree//)
 
-[10 - Rendering lists of data ](../../tree/5df66eb18f7c654c217af38679c5c62f9eae1c09/)
+[10 - Empty ](../../tree//)
 
 [11 - Empty ](../../tree//)
 
 [12 - Empty ](../../tree//)
-
-[13 - Empty ](../../tree//)
 
